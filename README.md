@@ -93,5 +93,3 @@ Aqui está o mapa mental da Política Nacional de Promoção da Saúde (PNPS) em
 - **Incorporação de Novas Tecnologias**
   - Uso de aplicativos e plataformas digitais para promover a saúde
 
-Este código em Markdown pode ser usado em plataformas de formatação como GitHub, Notion, entre outras, para gerar o mapa mental de forma organizada e estruturada.
-
